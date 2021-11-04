@@ -672,6 +672,9 @@ footer {
   margin-right: 7px;
   border: none;
 }
+.modal-form input.custom-checkbox:focus {
+  outline: 1px solid var(--brand-color);
+}
 .terms-agreement {
   color: var(--brand-color);
 }
